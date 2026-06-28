@@ -1,0 +1,104 @@
+Customer_ID,Name,Age,Gender,City,Salary
+1001,Customer_1,24.0,Male,Pune ,
+1002,Customer_2,29.0,Female,Kota ,32000.0
+1003,Customer_3,28.0,Female,Delhi,47000.0
+1004,Customer_4,25.0,Male,Indore ,32000.0
+1005,Customer_5,30.0,Male,Lucknow,56000.0
+1006,Customer_6,22.0,Male,Ahmedabad,42000.0
+1007,Customer_7,27.0,Male,Kota,47000.0
+1008,Customer_8,22.0,Female,Mumbai,47000.0
+1009,Customer_9,23.0,Female,Lucknow,42000.0
+1010,Customer_10,26.0,Female,Ahmedabad,56000.0
+1011,Customer_11,,Male,Ahmedabad,56000.0
+1012,Customer_12,28.0,Male,Indore,51000.0
+1013,Customer_13,23.0,Female,Mumbai,56000.0
+1014,Customer_14,27.0,Female,Delhi,47000.0
+1015,Customer_15,,Female,Jaipur,42000.0
+1016,Customer_16,22.0,Male,Kota,51000.0
+1017,Customer_17,,Female,Ahmedabad,32000.0
+1018,Customer_18,28.0,Male,Kota,32000.0
+1019,Customer_19,29.0,Female,Kota,56000.0
+1020,Customer_20,29.0,Female,Lucknow,51000.0
+1021,Customer_21,29.0,Male,Kota,38000.0
+1022,Customer_22,23.0,Female,Delhi,35000.0
+1023,Customer_23,23.0,Male,Ahmedabad ,47000.0
+1024,Customer_24,25.0,Female,Mumbai,38000.0
+1025,Customer_25,27.0,Female,Mumbai,47000.0
+1026,Customer_26,30.0,Male,Pune,47000.0
+1027,Customer_27,29.0,Female,Ahmedabad,32000.0
+1028,Customer_28,26.0,Female,Indore,42000.0
+1029,Customer_29,26.0,Male,Pune,42000.0
+1030,Customer_30,,Female,Delhi,56000.0
+1031,Customer_31,24.0,Male,Jaipur,56000.0
+1032,Customer_32,30.0,Male,Ahmedabad,32000.0
+1033,Customer_33,28.0,Female,Lucknow ,47000.0
+1034,Customer_34,24.0,Male,Delhi,35000.0
+1035,Customer_35,26.0,Female,Jaipur,47000.0
+1036,Customer_36,24.0,Male,Delhi,42000.0
+1037,Customer_37,,Female,Jaipur,32000.0
+1038,Customer_38,28.0,Male,Indore ,56000.0
+1039,Customer_39,,Male,Ahmedabad ,56000.0
+1040,Customer_40,26.0,Female,Delhi,56000.0
+1041,Customer_41,26.0,Male,Jaipur,51000.0
+1042,Customer_42,,Male,Indore,47000.0
+1043,Customer_43,23.0,Female,Indore,
+1044,Customer_44,30.0,Male,Mumbai,35000.0
+1045,Customer_45,24.0,Male,Jaipur,42000.0
+1046,Customer_46,26.0,Female,Pune,51000.0
+1047,Customer_47,23.0,Female,Kota,
+1048,Customer_48,24.0,Male,Indore ,35000.0
+1049,Customer_49,28.0,Male,Jaipur,56000.0
+1050,Customer_50,23.0,Male,Mumbai,51000.0
+1051,Customer_51,26.0,Male,Ahmedabad,35000.0
+1052,Customer_52,22.0,Female,Delhi,32000.0
+1053,Customer_53,23.0,Female,Mumbai,32000.0
+1054,Customer_54,25.0,Male,Lucknow,
+1055,Customer_55,24.0,Male,Jaipur,35000.0
+1056,Customer_56,28.0,Female,Pune,
+1057,Customer_57,27.0,Male,Kota,32000.0
+1058,Customer_58,22.0,Male,Pune,51000.0
+1059,Customer_59,29.0,Female,Indore,35000.0
+1060,Customer_60,27.0,Female,Mumbai,
+1061,Customer_61,27.0,Female,Jaipur,47000.0
+1062,Customer_62,25.0,Male,Indore ,47000.0
+1063,Customer_63,23.0,Female,Mumbai,51000.0
+1064,Customer_64,25.0,Female,Pune ,38000.0
+1065,Customer_65,27.0,Female,Kota,35000.0
+1066,Customer_66,25.0,Male,Delhi,56000.0
+1067,Customer_67,23.0,Female,Mumbai,32000.0
+1068,Customer_68,22.0,Female,Indore,38000.0
+1069,Customer_69,23.0,Female,Mumbai,38000.0
+1070,Customer_70,24.0,Male,Jaipur,51000.0
+1071,Customer_71,26.0,Male,Pune ,42000.0
+1072,Customer_72,24.0,Male,Indore,42000.0
+1073,Customer_73,24.0,Female,Lucknow,32000.0
+1074,Customer_74,25.0,Female,Mumbai,
+1075,Customer_75,28.0,Female,Ahmedabad,
+1076,Customer_76,22.0,Female,Indore,
+1077,Customer_77,22.0,Female,Delhi ,51000.0
+1078,Customer_78,,Male,Jaipur ,47000.0
+1079,Customer_79,28.0,Female,Jaipur,42000.0
+1080,Customer_80,29.0,Male,Jaipur,
+1081,Customer_81,25.0,Male,Indore,
+1082,Customer_82,25.0,Female,Indore,47000.0
+1083,Customer_83,25.0,Male,Mumbai,51000.0
+1084,Customer_84,24.0,Male,Pune,47000.0
+1085,Customer_85,30.0,Female,Jaipur,
+1086,Customer_86,,Male,Mumbai,56000.0
+1087,Customer_87,24.0,Male,Pune,32000.0
+1088,Customer_88,29.0,Female,Indore,38000.0
+1089,Customer_89,30.0,Male,Mumbai,35000.0
+1090,Customer_90,26.0,Male,Jaipur,35000.0
+1091,Customer_91,29.0,Male,Lucknow,56000.0
+1092,Customer_92,28.0,Male,Indore,
+1093,Customer_93,25.0,Male,Lucknow,56000.0
+1094,Customer_94,23.0,Female,Pune,32000.0
+1095,Customer_95,25.0,Female,Delhi ,42000.0
+1096,Customer_96,26.0,Male,Jaipur,42000.0
+1097,Customer_97,26.0,Female,Pune,
+1098,Customer_98,24.0,Female,Ahmedabad,35000.0
+1099,Customer_99,25.0,Female,Kota,35000.0
+1100,Customer_100,22.0,Male,Delhi,38000.0
+1011,Customer_11,,Male,Ahmedabad,56000.0
+1021,Customer_21,29.0,Male,Kota,38000.0
+1031,Customer_31,24.0,Male,Jaipur,56000.0
